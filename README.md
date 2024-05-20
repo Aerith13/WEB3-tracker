@@ -1,2 +1,8 @@
-# WEB3-tracker
-a requirement to integrate an API - I used tradingview
+# WEB3-Dashboard
+
+Members:
+Desiree Esguerra
+(add your names here...)
+
+
+BSIT 3A
